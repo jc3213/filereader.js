@@ -10,7 +10,7 @@
 ```
 ## Syntax
 ```javascript
-const reader = PromiseFileReader(file);
+const reader = new PromiseFileReader(file);
 ```
 ### `file`
 A javascript File object
